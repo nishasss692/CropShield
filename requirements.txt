@@ -1,0 +1,16 @@
+# Core ML & Data Processing
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Backend API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Utilities
+python-dotenv
+requests
